@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+        // Image Descriptions (contentDescription)
+        <string name="pic1">pic 1</string>
+        <string name="pic2">pic 2</string>
+        <string name="pic3">pic 3</string>
+        <string name="pic4">pic 4</string>
+
+        // Image Titles
+        <string name="title1">title 1\n</string>
+        <string name="title2">title 2\n</string>
+        <string name="title3">title 3\n</string>
+        <string name="title4">title 4\n</string>
+
+
+        // Buttons
+        <string name="next_button">Next</string>
+        <string name='previous_button'>Previous</string>
+</resources>
